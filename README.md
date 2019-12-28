@@ -1,5 +1,5 @@
 # News-Articles-Virality-Prediction
-
+Temp Changes
 This project involved using raw data (content, published date, views, etc) to train a model to be able to predict if a news article will go viral or not. 
 
 The raw data was in JSON format with the following attributes:

@@ -1,4 +1,4 @@
-# News-Articles-Virality-Prediction
+# News-Articles-Virality-Prediction-New-Changes
 
 This project involved using raw data (content, published date, views, etc) to train a model to be able to predict if a news article will go viral or not. 
 
